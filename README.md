@@ -3,7 +3,7 @@
 个人技术学习笔记整理，涵盖编程语言、框架、数据库及计算机基础知识。
 
 ## 📖 内容分类
-https://dp3.config-sync.com/api/v1/client/subscribe?token=e1573b7ad26350f61898a71f0e730128
+
 ### 前端开发
 - [HTML](HTML.md) / [HTML Pro](HTML%20pro.md) / [XHTML](XHTML.md)
 - [CSS](CSS.md)
